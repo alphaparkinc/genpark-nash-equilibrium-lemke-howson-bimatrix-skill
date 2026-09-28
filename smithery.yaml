@@ -1,0 +1,5 @@
+name: genpark-nash-equilibrium-lemke-howson-bimatrix-skill
+description: Exact mixed-strategy Nash equilibrium solver for two-player strategic bimatrix normal-form games
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
