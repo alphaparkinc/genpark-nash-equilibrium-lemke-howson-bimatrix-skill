@@ -1,0 +1,19 @@
+{
+  "name": "genpark-nash-equilibrium-lemke-howson-bimatrix-skill",
+  "version": "1.0.0",
+  "description": "Exact mixed-strategy Nash equilibrium solver for two-player strategic bimatrix normal-form games",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "game-theory",
+    "nash-equilibrium",
+    "bimatrix-games",
+    "mixed-strategy",
+    "strategic-reasoning",
+    "algorithmic-economics",
+    "python-standard-library",
+    "agent-skills",
+    "multi-agent-systems",
+    "indifference-principle"
+  ]
+}
